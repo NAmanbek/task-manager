@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Write project documentation",
+      "description": "Prepare the technical documentation for the Task Manager project.",
+      "priority": "High",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Implement pagination",
+      "description": "Ensure tasks are loaded dynamically as the user scrolls.",
+      "priority": "Medium",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Test the task filters",
+      "description": "Check if filtering by priority and status works correctly.",
+      "priority": "Low",
+      "completed": false
+    }
+  ]
+}
